@@ -28,7 +28,7 @@ For a design piece that became popular post-war at a time of Modernism and preci
   <p>
     This is <strong>raw HTML</strong>, inside Markdown.
 
-<﻿img src="[https://ichef.bbci.co.uk/news/320/cpsprodpb/A022/production/_129949904_womanreuters.jpg](https://ichef.bbci.co.uk/news/320/cpsprodpb/A022/production/_129949904_womanreuters.jpg)>
+<﻿img src="https://ichef.bbci.co.uk/news/320/cpsprodpb/A022/production/_129949904_womanreuters.jpg">
 
 </p>
 {{< /rawhtml >}}

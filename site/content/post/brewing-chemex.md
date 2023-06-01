@@ -25,7 +25,11 @@ For a design piece that became popular post-war at a time of Modernism and preci
 
 <﻿img src="https://ichef.bbci.co.uk/news/320/cpsprodpb/A022/production/_129949904_womanreuters.jpg">
 
+<﻿h1>Test</h1>
+
 {{< rawhtml >}}
+
+<﻿h1>Test</h1>
 
   <p>
     This is <strong>raw HTML</strong>, inside Markdown.

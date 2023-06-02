@@ -1,5 +1,5 @@
 ---
-title: Next...
+title: ""
 title2: xxx01
 date: 2017-01-04T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated,

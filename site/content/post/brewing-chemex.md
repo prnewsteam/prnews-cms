@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: A beginners’ guide to brewing with Chemex!
 date: 2017-01-04T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
@@ -23,7 +23,13 @@ The most visually distinctive feature of the Chemex is the heatproof wooden coll
 
 For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
 
+<﻿img src="https://ichef.bbci.co.uk/news/320/cpsprodpb/A022/production/_129949904_womanreuters.jpg">
+
+<﻿h1>Test</h1>
+
 {{< rawhtml >}}
+
+<﻿h1>Test</h1>
 
   <p>
     This is <strong>raw HTML</strong>, inside Markdown.

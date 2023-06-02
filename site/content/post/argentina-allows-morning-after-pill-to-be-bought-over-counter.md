@@ -1,5 +1,5 @@
 ---
-title: Argentina allows morning-after pill to be bought over counter
+title: Argentina allows morning-after pill to be bought over counter!
 date: 2023-06-01T11:54:45.224Z
 description: Women in Argentina will no longer require a prescription to get
   emergency contraception.

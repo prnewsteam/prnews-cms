@@ -5,18 +5,22 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
+i18n:
+  structure: multiple_folders
+  locales: [en, ru]
+
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", required: false}
-      - {label: "Sub Title", name: "title2", widget: "string", required: false}
+      - {label: "Title", name: "title", widget: "string", i18n: true, required: false}
+      - {label: "Sub Title", name: "title2", widget: "string", i18n: true, required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
   - name: "pages"
     label: "Pages"
     files:

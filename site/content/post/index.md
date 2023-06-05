@@ -1,5 +1,5 @@
 ---
-title: index EN
+title: index
 title2: Index Page EN
 date: 2023-06-05T09:05:59.013Z
 description: Intro

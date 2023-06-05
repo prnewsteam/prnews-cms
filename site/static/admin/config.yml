@@ -8,7 +8,6 @@ public_folder: "img"
 i18n:
   structure: multiple_folders
   locales: [en, ru]
-  default_locale: en
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit

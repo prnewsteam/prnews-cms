@@ -1,7 +1,3 @@
-{{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
-
-{{ with .Site.GetPage "/en/page1.md" }}{{ .Title }}{{ end }}
-
+{{ with .Site.GetPage "/en/home.md" }}
+{{ .Title }}
 {{ end }}

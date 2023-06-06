@@ -1,6 +1,7 @@
 ---
-title: page1
-title2: Page 1
+url: '/en/'
+title: Index En
+title2: Index En
 date: 2023-06-05T18:08:26.973Z
 description: Intro 1
 ---

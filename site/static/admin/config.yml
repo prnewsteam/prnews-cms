@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     i18n: true
     fields: # The fields each document in this collection have
-      - {label: "Slug", name: "title", widget: "string", i18n: true, required: false}
+      - {label: "Slug", name: "title", widget: "string", i18n: true}
       - {label: "EN Url [/:slug]", name: "url", widget: "string", i18n: true, required: false}
       - {label: "Sub Title", name: "title2", widget: "string", i18n: true, required: false}
       - {label: "Intro Blurb", name: "description", widget: "text"}
